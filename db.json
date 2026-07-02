@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "id": 1, "type": "Teclado Mecánico", "price": 85 },
+    { "id": 2, "type": "Ratón Gamer Wireless", "price": 60 },
+    { "id": 3, "type": "Monitor 4K 27 pulgadas", "price": 350 }
+  ],
+  "users": [
+    { "id": 1, "name": "Pepe", "password": "1234" }
+  ]
+}
