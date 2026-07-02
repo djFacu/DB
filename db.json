@@ -1,4 +1,15 @@
 {
+  "listProducts": [
+    { 
+      id: "1", 
+      // img: 'https://picsum.photos/300/400?random=1',
+      title: "Vestido Elegance", 
+      price: 99.99, 
+      description: "Diseño moderno y elegante ideal para ocasiones especiales." 
+   },
+    { id: "2", title: "Blazer Premium", price: 129.99, description: "Estilo sofisticado y minimalista para cualquier ocasión." },
+    { id: "3", title: "Conjunto Urban", price: 89.99, description: "Comodidad y estilo urbano combinados en una sola prenda." }
+],
   "products": [
     { "id": 1, "type": "Teclado Mecánico", "price": 85 },
     { "id": 2, "type": "Ratón Gamer Wireless", "price": 60 },
