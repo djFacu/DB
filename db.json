@@ -2,7 +2,6 @@
   "listProducts": [
     { 
       "id": 1, 
-      // img: 'https://picsum.photos/300/400?random=1',
       "title": "Vestido Elegance", 
       "price": 99.99, 
       "description": "Diseño moderno y elegante ideal para ocasiones especiales." 
